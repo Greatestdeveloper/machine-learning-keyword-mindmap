@@ -1,12 +1,20 @@
 # Machine Learning Keyword Mindmap 
 A Mindmap summarising Machine Learning keyworkds, from Data Analysis to Deep Learning.
 
-## Why keyword?
+## Why keywords?
 Because the details can be found in the original articles/lectures. What I focus on in this project is the big picture of machine learning. Some parts in the mindmaps are blank, but I'm planning to build a complete mindmap in the future. 
+
+Currently, the projects contains:
+
+ * Data Processing
+ * Machine learning process
+ * Machine learning algorithm
+ * Convolutional neural network (comming soon)
+ * Sequence model (comming soon)
 
 ## Tools and Notations
 
-I have built the mindmaps with [XMind](https://www.xmind.net/) on Window environments. The images will be generated and be available under folder `images`.
+I have built the mindmaps with [XMind](https://www.xmind.net/) on Window environments but the software is available in macOS and Linux. The images are generated and available under folder `images`.
 
 Notiations are used in all mindmaps includes:
 
