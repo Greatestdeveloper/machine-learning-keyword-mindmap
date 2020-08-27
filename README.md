@@ -1,10 +1,10 @@
 # Machine Learning Keyword Mindmap 
-A Mindmap summarising Machine Learning keyworkds, from Data Analysis to Deep Learning.
+Mindmaps summarising and categorizing Machine Learning keywords, from Data Processing to Deep Learning.
 
 ## Why keywords?
-Because the details can be found in the original articles/lectures. What I focus on in this project is the big picture of machine learning. Some parts in the mindmaps are blank, but I'm planning to build a complete mindmap in the future. 
+Because the details can be found in the original articles/lectures. What I focus on in this project is the big picture of machine learning and thus, there is NO algorithm explanation in any provided mind maps.
 
-Currently, the projects contains:
+Some parts in the mindmaps are blank, but I'm planning to build a complete mindmap in the future. Currently, the projects includes the following mindmaps:
 
  * Data Processing
  * Machine learning process
@@ -19,9 +19,9 @@ I have built the mindmaps with [XMind](https://www.xmind.net/) on Window environ
 Notiations are used in all mindmaps includes:
 
  * ***capital letter*** (e.g., _Principal component analysis_) when refering to a method/algorithm
- * ***normal letter*** (e.g., _dimensionality reduction_) when refering to a catergory
+ * ***normal letter*** (e.g., _dimensionality reduction_) when refering to a category
  * ***star*** (e.g., _algorithm selection (*)_) when its details are given in other parts
- * ***bang! bang!*** (.e.g, _!! ensemble models get better results but they are only for competitions (NOT productions)_) for my note
+ * ***bang! bang!*** (.e.g, _!! ensemble models get better results but they are only for competitions (NOT productions)_) for a note
 
 ## 1. Data Processing
 Data processing, as an infomraiton processing, is to collect and manipulate data to produce meaningful information. The techniques in this mindmap is almost applied to a data type of number, special techniques for other types (e.g., speech) will be covered in other part (e.g., Sequence model part).
@@ -34,7 +34,7 @@ In addition to the implementation/evaluation of a single model, the machine lear
 ![alt text](https://github.com/Typhoon1089/machine-learning-keyword-mindmap/blob/master/images/Machine%20learning%20process.png)
 
 ## 3. Machine learning algorithm
-Well-known algorithms are listed and catergorized into groups so that readers can remember easily. If an algorithm is used for multiple purposes, it will be listed for major purposes and may be omitted in minor one. As mentioned earlier, I am planning to complete the mindmap in the future.
+Well-known algorithms are listed and categorized into groups so that readers can remember easily. If an algorithm is used for multiple purposes, it will be listed for major purposes and may be omitted in minor one. As mentioned earlier, I am planning to complete the mindmap in the future.
 
 ![alt text](https://github.com/Typhoon1089/machine-learning-keyword-mindmap/blob/master/images/Machine%20learning%20algorithm.png)
 
