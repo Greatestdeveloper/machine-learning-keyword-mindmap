@@ -1,5 +1,5 @@
 # Machine Learning Keyword Mindmap 
-Mindmaps summarising and categorizing Machine Learning keywords, from Data Processing to Deep Learning.
+Mindmaps summarizing and categorizing Machine Learning keywords, from Data Processing to Deep Learning.
 
 ## Why keywords?
 Because the details can be found in the original articles/lectures. What I focus on in this project is the big picture of machine learning and thus, there is NO algorithm explanation in any provided mind maps.
